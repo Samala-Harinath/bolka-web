@@ -1,0 +1,39 @@
+{
+  "name": "bolka-website",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@datapunt/matomo-tracker-react": "^0.5.1",
+    "@hookform/resolvers": "^5.0.1",
+    "@jonkoops/matomo-tracker": "^0.7.0",
+    "@jonkoops/matomo-tracker-react": "^0.7.0",
+    "axios": "^1.8.4",
+    "framer-motion": "^12.5.0",
+    "lucide-react": "^0.486.0",
+    "next": "15.2.4",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-hook-form": "^7.55.0",
+    "react-hot-toast": "^2.5.2",
+    "react-icons": "^5.5.0",
+    "react-intersection-observer": "^9.16.0",
+    "react-otp-input": "^3.1.1",
+    "react-slick": "^0.30.3",
+    "react-slideshow-image": "^4.3.2",
+    "slick-carousel": "^1.8.1",
+    "zod": "^3.24.2"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@tailwindcss/postcss": "^4",
+    "eslint": "^9",
+    "eslint-config-next": "15.2.2",
+    "tailwindcss": "^4"
+  }
+}
