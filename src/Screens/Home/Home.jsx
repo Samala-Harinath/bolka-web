@@ -19,8 +19,8 @@ import SwarmTech from './SwarmTech'
 import Info from '../RealEstate/Info'
 import SeeingResult from './SeeingResult'
 import Revolution from './revolution'
-import BrochuresModal from '../../Components/Brochures/BrochuresModal'
-import { BrochureProvider } from '../../Components/Brochures/BrochureProvider'
+import BrochuresModal from '../../components/Brochures/BrochuresModal'
+import { BrochureProvider } from '../../components/Brochures/BrochureProvider'
 
 const Home = () => {
   const { state } = useLocation();

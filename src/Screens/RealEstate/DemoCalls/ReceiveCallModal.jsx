@@ -1,5 +1,5 @@
 import React from 'react'
-import Modal from '@/Components/Ui/Modal'
+import Modal from '@/components/Ui/Modal'
 import { X } from 'lucide-react'
 import {CustomButton} from "@/components/Ui/Button/CustomButton"
 import { useState } from 'react';
