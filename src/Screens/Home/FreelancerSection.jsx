@@ -1,7 +1,7 @@
 "use client"
 import React, { useState } from 'react'
 import AiCaller from './AiCaller';
-import { CustomButton } from '../../Components/Ui/Button/CustomButton';
+import { CustomButton } from '../../components/Ui/Button/CustomButton';
 import { useMatomo } from '@datapunt/matomo-tracker-react';
 import { useCallback } from 'react';
 import { useRouter } from 'next/navigation';

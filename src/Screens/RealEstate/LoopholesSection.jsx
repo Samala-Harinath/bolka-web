@@ -7,7 +7,7 @@ import Customer from '@/assets/Images/Realestate/Customer.png'
 import DND from '@/assets/Images/Realestate/DND.png'
 import Manual_intervention from '@/assets/Images/Realestate/Manual_intervention.png'
 import Solutions from '@/assets/Images/Realestate/Solutions.png'
-import { CustomButton } from '@/Components/Ui/Button/CustomButton'
+import { CustomButton } from '@/components/Ui/Button/CustomButton'
 import { useMatomo } from '@datapunt/matomo-tracker-react'
 import Image from 'next/image'
 const LoopholesSection = ({ setDemoToggle }) => {

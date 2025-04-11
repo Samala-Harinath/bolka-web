@@ -8,7 +8,7 @@ import Personalization from '@/assets/Images/Realestate/Personalization.png'
 import Resource from '@/assets/Images/Realestate/Resource.png'
 import Image from 'next/image'
 import Face_Emoji from '@/assets/Images/Realestate/Face_Emoji.png'
-import { CustomButton } from '@/Components/Ui/Button/CustomButton'
+import { CustomButton } from '@/components/Ui/Button/CustomButton'
 import { useMatomo } from '@datapunt/matomo-tracker-react'
 
 const BusinessInfo = ({ setDemoToggle }) => {

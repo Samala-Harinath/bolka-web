@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import { MdClose } from "react-icons/md";
 import { useForm } from "react-hook-form";
 import axios from 'axios';
-import { CustomButton } from '../../Components/Ui/Button/CustomButton';
+import { CustomButton } from '../../components/Ui/Button/CustomButton';
 import { useBrochure } from './BrochureProvider';
 import { useRouter } from 'next/router';
 import Image from 'next/image';

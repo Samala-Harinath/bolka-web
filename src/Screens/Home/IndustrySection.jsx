@@ -23,8 +23,9 @@ import MarketingActive from '@/assets/Icon/MarketingActive.png';
 import LogisticsActive from '@/assets/Icon/LogisticsActive.png';
 import EventActive from '@/assets/Icon/EventActive.png';
 import RecruitmentActive from '@/assets/Icon/RecruitmentActive.png';
+
 import TelecomActive from '@/assets/Icon/TelecomActive.png';
-import { CustomButton } from '@/Components/Ui/Button/CustomButton';
+import { CustomButton } from '@/components/Ui/Button/CustomButton';
 import { useMatomo } from '@datapunt/matomo-tracker-react';
 import { useCallback } from 'react';
 import { useRouter } from 'next/navigation';

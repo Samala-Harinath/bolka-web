@@ -6,7 +6,7 @@ import Security3 from '@/assets/Images/Realestate/Security3.png'
 import Security4 from '@/assets/Images/Realestate/Security4.png'
 import Security5 from '@/assets/Images/Realestate/Security5.png'
 import Security6 from '@/assets/Images/Realestate/Security6.png'
-import { CustomButton } from '@/Components/Ui/Button/CustomButton'
+import { CustomButton } from '@/components/Ui/Button/CustomButton'
 import { useMatomo } from '@datapunt/matomo-tracker-react'
 import Image from 'next/image'
 const BolkaSecurity = ({ setDemoToggle }) => {

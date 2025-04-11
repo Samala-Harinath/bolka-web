@@ -5,7 +5,7 @@ import LocalisedEngagement from '../../assets/Images/Realestate/LocalisedEngagem
 import MassiveScalability from '../../assets/Images/Realestate/MassiveScalability.svg'
 import DynamicResourcellocation from '../../assets/Images/Realestate/DynamicResourcellocation.png'
 import RealTimeAdjustments from '../../assets/Images/Realestate/RealTimeAdjustments.png'
-import { CustomButton } from '../../Components/Ui/Button/CustomButton';
+import { CustomButton } from '../../components/Ui/Button/CustomButton';
 import { useMatomo } from '@datapunt/matomo-tracker-react';
 import { useCallback } from 'react';
 import Image from 'next/image';

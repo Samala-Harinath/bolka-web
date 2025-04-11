@@ -8,7 +8,7 @@ import HQ_Leads from '@/assets/Images/Realestate/HQ_Leads.png'
 import Validate_Number from '@/assets/Images/Realestate/Validate_Number.png'
 import Reach_Customer from '@/assets/Images/Realestate/Reach_Customer.png'
 import Scale_Campaigns from '@/assets/Images/Realestate/Scale_Campaigns.png'
-import { CustomButton } from '@/Components/Ui/Button/CustomButton'
+import { CustomButton } from '@/components/Ui/Button/CustomButton'
 import { useMatomo } from '@datapunt/matomo-tracker-react'
 import Image from 'next/image'
 const DPDPActSection = ({ setDemoToggle }) => {

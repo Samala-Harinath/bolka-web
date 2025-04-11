@@ -1,7 +1,7 @@
 "use client"
 import React, { Fragment } from 'react';
 import { ArrowUpRight } from 'lucide-react';
-import { CustomButton } from '@/Components/Ui/Button/CustomButton';
+import { CustomButton } from '@/components/Ui/Button/CustomButton';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';
 import 'slick-carousel/slick/slick-theme.css';

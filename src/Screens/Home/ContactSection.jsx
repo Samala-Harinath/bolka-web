@@ -4,7 +4,7 @@ import { useForm } from 'react-hook-form';
 import { z } from 'zod';
 import { zodResolver } from '@hookform/resolvers/zod';
 import Ai from '@/assets/Images/Ai.svg';
-import { CustomButton } from '@/Components/Ui/Button/CustomButton';
+import { CustomButton } from '@/components/Ui/Button/CustomButton';
 import axios from 'axios';
 import toast from 'react-hot-toast';
 import Image from 'next/image';

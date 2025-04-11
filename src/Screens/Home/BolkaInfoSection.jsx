@@ -24,7 +24,7 @@ import Page from '@/assets/Icon/BolkaInfo_icon/Page.png';
 import PageActive from '@/assets/Icon/BolkaInfo_icon/PageActive.png';
 import Quality_Check from '@/assets/Icon/BolkaInfo_icon/Quality_Check.png';
 import Quality_CheckActive from '@/assets/Icon/BolkaInfo_icon/Quality_CheckActive.png';
-import { CustomButton } from '@/Components/Ui/Button/CustomButton';
+import { CustomButton } from '@/components/Ui/Button/CustomButton';
 import { motion } from 'framer-motion'
 import { useMatomo } from '@datapunt/matomo-tracker-react';
 import { useCallback } from 'react';

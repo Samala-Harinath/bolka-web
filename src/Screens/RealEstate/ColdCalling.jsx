@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import { CustomButton } from '@/Components/Ui/Button/CustomButton';
+import { CustomButton } from '@/components/Ui/Button/CustomButton';
 import FiveGImage from '@/assets/Images/Realestate/5gImage.png'
 import HumanResource from '@/assets/Images/Realestate/HumanResource.png'
 import colorPattern from '@/assets/Images/Realestate/colorPattern.png'

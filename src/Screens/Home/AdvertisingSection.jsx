@@ -1,6 +1,6 @@
 "use client"
 import React from 'react'
-import { CustomButton } from '@/Components/Ui/Button/CustomButton'
+import { CustomButton } from '@/components/Ui/Button/CustomButton'
 import { useMatomo } from '@datapunt/matomo-tracker-react';
 const AdvertisingSection = () => {
   const { trackEvent } = useMatomo(); 

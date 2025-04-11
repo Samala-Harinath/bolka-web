@@ -6,7 +6,7 @@ import Phone_logo from '../../assets/Images/Phone_logo.svg'
 import Phillip_Capital from '../../assets/Images/Phillip_Capital.svg'
 import HDFC_Ergo_logo from "../../assets/Images/HDFC_Ergo_logo.svg";
 import { motion, useAnimation } from 'framer-motion'
-import { CustomButton } from '../../Components/Ui/Button/CustomButton'
+import { CustomButton } from '../../components/Ui/Button/CustomButton'
 import { ArrowRight, ArrowUpRight } from 'lucide-react';
 import Slider from 'react-slick';
 import 'slick-carousel/slick/slick.css';

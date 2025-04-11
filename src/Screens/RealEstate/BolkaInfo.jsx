@@ -6,7 +6,7 @@ import Mobile from '@/assets/Images/Realestate/Mobile.png'
 import Meter from '@/assets/Images/Realestate/Meter.png'
 import Secure from '@/assets/Images/Realestate/Secure.png'
 import Steps_Graph from '@/assets/Images/Realestate/Steps_Graph.png'
-import { CustomButton } from '@/Components/Ui/Button/CustomButton'
+import { CustomButton } from '@/components/Ui/Button/CustomButton'
 import { useMatomo } from '@datapunt/matomo-tracker-react'
 import Image from 'next/image'
 const BolkaInfo = ({ setDemoToggle }) => {
